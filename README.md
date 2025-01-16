@@ -26,7 +26,7 @@ The Food Ordering System is a web-based platform that allows users to browse, se
 ### Installation Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/shimu615/FoodOrderingSystem.git
+   git clone https://github.com/shimu615/Food-Ordering-System
    ```
 2. Navigate to the project directory:
    ```bash
