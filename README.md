@@ -56,6 +56,12 @@ FoodOrderingSystem/
 ## Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your proposed changes.
 
+## Course Advisor:
+Razorshi Prozzwal Talukder
+Course Title:Introduction to Database System
+Course Code:CSE- 06132211
+
+
 ## Contact
 If you have any questions or feedback, feel free to reach out via GitHub:
 [Shimu Begum's GitHub](https://github.com/shimu615/Food-Ordering-System)
